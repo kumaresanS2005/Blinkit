@@ -30,7 +30,7 @@ The objective is to understand sales performance, product distribution, and busi
 
 ## Project Files
 - Blinkit_image.png
-- blinkit dashboad.pbix
+- blinkit_dashboad.pbix
 
 ## Skills Demonstrated
 - Data Cleaning
